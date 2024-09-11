@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Toggle Day/Night button
+title: Toggle Day/Night Button
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
